@@ -1,16 +1,8 @@
-# gaster
+# Gaster
 
-A new Flutter project.
+<iframe src="https://giphy.com/embed/3ornjWylTTz6e0SHIs" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-## Getting Started
+Hey y'all, so I'm buying a new Bajaj Freedom 125 and thus this... 
+Who needs to go to Google Maps and search "CNG Pumps Near Me", when you can have an app for just that...
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<iframe src="https://giphy.com/embed/qN8mwUPAt7gByge3W1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
